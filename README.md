@@ -27,7 +27,7 @@ If you're playing with other people and want to capture images while you're in t
 
 The autosplitter can also split on boss health bars appearing and disappearing. To get the boss health bar color and position, click on the button in the bottom left of the autosplitter window. Unfortunately, boss health bars are always slightly transparent, so the best way to detect them is to get the darkest and lightest possible colors and have the program check for any shade between those two colors. In the first encounter of the Deep Stone Crypt raid, there's a perfectly white light and a perfectly black wall that you can use to do this.
 
-![alt text](tree/images\lightside.png)
+![alt text](tree/images/lightside.png)
 
 To set the colors, start the encounter so the health bar appears, then put the health bar over the perfectly white light and click "find light color." Then, click on the part of the health bar over the light. Next, go to the dark side of the raid and put the health bar over the dark wall. Click "find dark color" and click on that part of the health bar. Finally, click "set bar location" and click just to the left of the top left corner of the health bar.
 
