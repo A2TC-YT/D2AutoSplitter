@@ -46,4 +46,4 @@ While using the autosplitter, if it misses an image you can just press your skip
 
 ## DISCORD
 
-If you have any more questions about using the autosplitter, you can join the [Discord](https://discord.gg/6RJDAAJ8jx). I hope you enjoy using the autosplitter.
+If you have any more questions about using the autosplitter, you can join the [Discord](https://discord.gg/6RJDAAJ8jx) or watch my YouTube tutorial. I hope you enjoy using the autosplitter.
