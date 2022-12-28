@@ -34,7 +34,7 @@ To set the colors, start the encounter so the health bar appears, then put the h
 
 ## SPLIT FILES
 
-Now that you have your split images, you can create your splits by clicking the "edit/make new splits" button. This will open a new window where you can set the split name, choose an image for the autosplitter to find, select whether you want the split to be a dummy split (more on that later), set a custom threshold (the percentage of the image that needs to match for it to split), and set a custom delay (how long the program will wait after finding an image before it starts looking for the next one). Once you have your splits set up, click "save current splits as" and give them a name. If you need to go back and change something later, just click "load splits" and select the split file you want to edit.
+Now that you have your split images, you can create your splits by clicking the "edit/make new splits" button. This will open a new window where you can set the split name, choose an image for the autosplitter to find, select whether you want the split to be a dummy split (more on that later), set a custom threshold (the percentage of the image that needs to match for it to split), and set a custom delay (how long the program will wait after finding an image before it starts looking for the next one). Once you have your splits set up, click "save current splits as" and give them a name. If you need to go back and change something later, just click "load splits" and select the split file you want to edit. (Remember to save these files after editing them)
 
 ## USING THE AUTOSPLITTER
 
@@ -42,8 +42,8 @@ Now that you have everything set up, you're ready to use the autosplitter. Click
 
 One annoying thing about boss health bars is that they can disappear for many reasons other than actually killing the boss, such as going into your inventory or pulling out your ghost. To account for this, the autosplitter is set up to continue looking for the health bar until it finds the next split. If it sees the health bar back on the screen for 2 seconds straight, it will undo the split and wait for the health bar to disappear again. This is where dummy splits come in handy. A dummy split is exactly like a normal split, except it doesn't press the button when it finds the image. You should put one of these after boss deaths, so the splitter doesn't falsely undo the boss death split. A good image to use for this is the season rank progress one that shows up after every encounter of every dungeon and raid.
 
-While using the autosplitter, if it misses an image you can just press your skip split key and it will skip the current image and split in LiveSplit. However, if the autosplitter and LiveSplit get out of sync, you can skip and undo splits specifically in the autosplitter, as well as stop just the autosplitter but keep the timer running.
+While using the autosplitter, if it misses an image you can just press your skip split key and it will skip the current image and split in LiveSplit. However, if the autosplitter and LiveSplit get out of sync, you can skip and undo splits specifically in the autosplitter, as well as stop just the autosplitter but keep the timer running by using the buttons in the bottom right of the autosplitter.
 
 ## DISCORD
 
-If you have any more questions about using the autosplitter, you can join the Discord. I hope you enjoy using the autosplitter.
+If you have any more questions about using the autosplitter, you can join the [Discord](https://discord.gg/6RJDAAJ8jx). I hope you enjoy using the autosplitter.
