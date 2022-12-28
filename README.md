@@ -1,4 +1,5 @@
-# D2AutoSplitter
+# Destiny 2 AutoSplitter
+This is an AutoSplitter made for Destiny 2
 
 # INSTALLATION
 
