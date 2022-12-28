@@ -3,7 +3,7 @@ This is an AutoSplitter made for Destiny 2
 
 ## INSTALLATION
 
-To begin, you'll need to download the autosplitter. Download the top file the most recent release.
+To begin, you'll need to download the most recent release of the autosplitter.
 
 ## IN GAME SETTINGS
 
